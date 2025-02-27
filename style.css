@@ -28,14 +28,13 @@
 
 .second{
     width: 50%;
-   background-image: url('../image/Frame.png')!important;
+   background-image: url('../image/Frame.png');
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    display: none;
     position: relative;
     overflow: hidden;
 }
