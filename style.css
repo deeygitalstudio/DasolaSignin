@@ -28,13 +28,13 @@
 
 .logo{
     position: fixed;
-    width: 120px;
+    width: 110px;
     padding: 20px 10px;
 }
 
 .second{
     width: 50%;
-   background-image: url('/image/Frame.png');
+   background-image: url('../image/Frame.png');
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
