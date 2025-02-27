@@ -26,18 +26,24 @@
  
 }
 
+.logo{
+    position: fixed;
+    width: 120px;
+    padding: 20px 10px;
+}
+
 .second{
     width: 50%;
-    background-image: url('../image/Frame 2147207438.png');
+    background-image: url('../image/Frame\ 2147207438.png');
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    display: none;
     position: relative;
     overflow: hidden;
+    display:none;
 }
 
 
@@ -56,7 +62,7 @@
 
 .content{
     width: 100%;
-    margin-top: 2.5rem;
+    margin-top: 3.5rem;
     /* border: 1px solid grey; */
 }
 
