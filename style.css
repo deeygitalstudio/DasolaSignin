@@ -259,5 +259,9 @@ div input::placeholder{
 
     .second{
         display: flex;
+         background-image: url('../image/Frame.png');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
     }
 }
